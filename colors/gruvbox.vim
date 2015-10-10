@@ -1054,6 +1054,7 @@ hi! link goConstants GruvboxPurple
 hi! link goDeclaration GruvboxRed
 hi! link goDeclType GruvboxBlue
 hi! link goBuiltins GruvboxOrange
+hi! link goOperator GruvboxYellow
 
 " }}}
 " Lua: {{{
